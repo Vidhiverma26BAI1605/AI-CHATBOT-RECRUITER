@@ -1,0 +1,50 @@
+{
+    
+   "questions":[
+    {
+        "key":"name",
+        "question":"What is your name?"
+    },
+    {
+        "key":"skills",
+        "question":"what are your skills in the field of computer?"
+    },
+    {
+        "key":"experience",
+        "question":"Tell me about your experience"
+    },
+    {
+        "key":"languages",
+        "question":"what languages have you done?"
+    },
+    {
+        "key":"projects",
+        "question":"what projects have you made"
+
+    },
+    {
+        "key":"internship",
+        "question":"have you done internship? If yes, breif about it."
+    },
+    {
+        "key":"certifications",
+        "question":"Do you have any certification?"
+    },
+    {
+        "key":"technologies",
+        "question":"what technologies have you worked on?"
+    },
+    {
+        "key":"hiring",
+        "question":"why should we hire you?"
+    },
+    {
+        "key":"job_role",
+        "question":"what job role are you interest in?"
+    }
+   ]
+    
+    
+
+}
+    
