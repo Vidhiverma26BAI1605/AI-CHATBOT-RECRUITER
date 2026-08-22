@@ -107,6 +107,10 @@ Required Role: AI/ML Developer
 
 The collected information can help a recruiter during the initial candidate-screening stage.
 
+SCREENSHOTS:
+<img width="1278" height="985" alt="Screenshot 2026-08-22 051937" src="https://github.com/user-attachments/assets/1763223d-b121-4f47-a865-912421ff21a9" />
+
+
 
  CONCLUSION
 
