@@ -108,14 +108,6 @@ Required Role: AI/ML Developer
 The collected information can help a recruiter during the initial candidate-screening stage.
 
 
-SCREENSHOTS
-
-Screenshots of the chatbot interface and its output can be added here.
-
-Example:<img width="1278" height="985" alt="Screenshot 2026-08-22 051937" src="https://github.com/user-attachments/assets/55fe4c50-1700-4350-b872-fd518629868c" />
-
-
-
  CONCLUSION
 
 The AI Recruiter Chatbot demonstrates how conversational technology can assist with the initial recruitment process.
